@@ -1,6 +1,1 @@
-.banner {
-  background-image: url('browserbanner.png');
-  height: 200px; /* Adjust as needed */
-  background-size: cover;
-  background-position: center;
-}
+<img src="https://github.com/codingkatty/y2kos/blob/main/browserbanner.png?raw=true" alt="Browser Banner">
